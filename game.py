@@ -1,5 +1,5 @@
-WHIDTH = 1280
-HEIGHT = 768
+WHIDTH = 800
+HEIGHT = 600
 TITLE = 'Caça ao Tesouro'
 
 def draw():
